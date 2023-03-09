@@ -1,2 +1,2 @@
 # Arduino-based-human-following-robot-
-The primary goal of my work was to design and fabricate a  robot that not only tracks the target but also moves towards it while doing the tracking.
+The primary goal of my work was to design and fabricate a  robot that not only tracks the target but also moves towards it while doing the tracking. So,  in this project, I have implemented two IR sensors and one ultrasonic sensor for tracking  purposes and I have used 4 TT gear motors with a motor driver module for movement of the  robot along the object. In order the track the location of the robot, a GPS tracker is also  used in this project. Some of the real world applications of the robot are studied and some  of the future improvements related to the robot are also studied.
